@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nift-d
-- 👀 I’m interested in linux, sysml, opm, zettelkasten
+- 👀 I’m interested in linux, modelica, capella, zettelkasten
 - 🌱 I’m currently learning what computers are good for
-- 💞️ I’m looking to collaborate on sysml
+- 💞️ I’m looking to collaborate on modelica, capella
 - 📫 How to reach me ...
 
 <!---
